@@ -7,7 +7,7 @@ This repository contains the code for the numerical Kloosterman and Walsh spectr
 
 
 ## Requirements
-To run the scripts one requires [Julia](https://julialang.org/) and the [OSCAR](https://www.oscar-system.org/) package.
+To run the scripts one requires [Julia](https://julialang.org/) and the [OSCAR](https://www.oscar-system.org/) (Version 1.4.1) package.
 In Julia, Oscar can be installed with
 ```Julia
 julia> using Pkg; Pkg.add("Oscar")
